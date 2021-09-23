@@ -1,0 +1,39 @@
+{
+  "name": "search-your-favourite",
+  "version": "1.0.0",
+  "description": "Search Your Favourite Cocktail",
+  "main": "app.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samk27/search-your-favourite.git"
+  },
+  "keywords": [
+    "selector"
+  ],
+  "author": "Sam Koegelenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samk27/search-your-favourite/issues"
+  },
+  "homepage": "https://github.com/samk27/search-your-favourite#readme",
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "lint": "^0.7.0",
+    "node": "^16.9.1",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0-0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0-0"
+  }
+}
