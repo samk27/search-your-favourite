@@ -3,7 +3,7 @@
     <nav-bar></nav-bar>
     <div class="about">
         <h1>About us</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae repudiandae architecto qui adipisci in officiis, aperiam sequi atque perferendis eos, autem maiores nisi saepe quisquam hic odio consectetur nobis veritatis quasi explicabo obcaecati doloremque? Placeat ratione hic aspernatur error blanditiis?</p>
+        <p>This cocktail guide is intended to give you and overview of cocktails, cocktail mixing and bartending. While there are many books and internet sites on cocktails, it can be daunting to navigate your way through them to get the information you are looking for. Cocktail Mixing Master makes this easy by summarising the most important things you need to know, right here.</p>
     </div>
   </div>
 </template>
